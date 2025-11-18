@@ -1,0 +1,12 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.FooterMainDiv{
+margin: -50px;
+    width: 1280px;
+    height: 700px;
+    background-image: url(../../Img/Footer.png);
+}

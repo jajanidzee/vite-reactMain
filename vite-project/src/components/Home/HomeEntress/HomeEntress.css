@@ -1,0 +1,47 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.HomeEnterMainDiv{
+    display: flex;
+    align-items: start;
+    padding: 30px 0 60px 0;
+}
+
+
+
+.HomeEntressP{
+         font-size: 20px;
+    font-weight: bold;
+      font-family: "EB Garamond", serif;
+      color: #030303;
+      width: 50%;
+}
+/* .HomeEntresstextnav{
+    width: 50%;
+        display: flex;
+    align-items: center;
+    
+} */
+/* .ScheduleUl{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    gap: 30px;
+} */
+ .HomeEntressLi{
+
+      font-family: "EB Garamond", serif;
+    font-size: 20px;
+    list-style: none;
+    font-weight: normal;
+    display: flex;
+justify-content: space-between;
+gap: 130px;
+ }
+
+ .HomeEntressspan{
+    width: 424px;
+ }

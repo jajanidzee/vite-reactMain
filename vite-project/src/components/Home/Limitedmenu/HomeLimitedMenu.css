@@ -1,0 +1,24 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.limitedMenuMainDiv{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+
+        margin-bottom: 60px;
+}
+.LimitedMenuDivChild1{
+    width: 50%;
+
+}
+
+.limitedMenuP{
+   font-family: "EB Garamond", serif;
+   font-size: 30px;
+   font-style: italic;
+   
+}

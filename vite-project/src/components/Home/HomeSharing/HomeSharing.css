@@ -1,0 +1,32 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.HomeSharingMainDiv{
+    padding: 30px 0 60px 0;
+   
+      display: flex;
+
+}
+.HomeSharingP{
+     font-size: 20px;
+    font-weight: bold;
+      font-family: "EB Garamond", serif;
+      color: #030303;
+      width: 50%;
+}
+
+.HomeSharingLi{
+    display: flex;
+    justify-content: space-between;
+          font-family: "EB Garamond", serif;
+    font-size: 20px;
+    list-style: none;
+    font-weight: normal;
+    gap: 130px;
+}
+.HomeSharingSpan{
+    width: 420px;
+}

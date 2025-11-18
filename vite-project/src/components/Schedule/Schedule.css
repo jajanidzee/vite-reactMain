@@ -1,0 +1,23 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ScheduleLi{
+list-style: none;
+color: #222222;
+font-style: italic;
+  font-family: "EB Garamond", serif;
+line-height: 35px;
+}
+@media (max-width:1279px){
+  .ScheduleLi{
+    width: 380px;
+list-style: none;
+color: #222222;
+font-style: italic;
+  font-family: "EB Garamond", serif;
+line-height: 35px;
+}
+}

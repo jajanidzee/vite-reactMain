@@ -1,0 +1,62 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.HomeCozyDivChild{
+    display: flex;
+    align-items: start;
+gap: 70px;
+}
+.HomeCozyH2{
+    width: 580px;
+font-size: 40px;
+font-weight: normal;
+}
+.HomeCozyA{
+     text-decoration: none;
+    color: #EBC1AE;
+}
+.HomeAdreesP{
+  font-family: "EB Garamond", serif;
+  font-size: 15px;
+  font-style: italic;
+  line-height: 21px;
+}
+.HomeScheduleDiv{
+    width: 540px;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+}
+.CozyImgDiv{
+    background-image: url(../../../Img/Imagehero.png);
+    width: 1180px;
+    height: 500px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+@media (max-width:1279px){
+    .HomeCozyH2{
+        width: 380px;
+font-size: 40px;
+font-weight: normal;
+}
+.HomeCozyHr{
+width: 350px;
+height: 1px;
+margin-bottom: 30px;
+background-color: black;
+
+}
+.CozyImgDiv{
+    background-image: url(../../../Img/imagehero1.png);
+    width: 700px;
+    height: 500px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+}
+

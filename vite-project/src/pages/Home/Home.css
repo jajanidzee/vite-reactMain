@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.HomeMainDiv{
+    width: 1280px;
+    margin: auto;
+    background-color: #EBC1AE;
+    padding: 20px 50px 34px 50px;
+}
+
+@media (max-width: 1279პხ){
+.HomeMainDiv{
+    width: 1279px;
+    margin: auto;
+    background-color: red;
+    padding: 20px 50px 34px 50px;
+}
+}

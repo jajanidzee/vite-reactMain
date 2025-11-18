@@ -1,0 +1,24 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.HomeMenuMainDiv{
+    padding: 30px 470px 60px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.HomeMenuP{
+    font-size: 20px;
+    font-weight: bold;
+      font-family: "EB Garamond", serif;
+      color: #030303;
+}
+.HomeSummerP{
+    font-size: 20px;
+    font-weight: normal;
+      font-family: "EB Garamond", serif;
+      color: #030303;
+}
