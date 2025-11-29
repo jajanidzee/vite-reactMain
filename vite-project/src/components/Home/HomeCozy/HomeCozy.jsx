@@ -27,7 +27,7 @@ function HomeCozy() {
       </div>
 <div className="CozyImgDiv"></div>
     </div>
- <hr className="MAinHr"  style={{width:"100%",height:"1px",background:"#BA9787"}}/>
+ <hr className="MAinHr"  style={{width:"100%",height:"1px",background:"#030303"}}/>
   </>
   );
 }

@@ -7,7 +7,7 @@
 .HeaderMainDiv{
     display: flex;
     align-items: start;
-    justify-content: space-between;
+    /* justify-content: space-between; */
 }
 .HeaderH1{
     font-size: 150px;
